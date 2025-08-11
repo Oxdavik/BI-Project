@@ -3,6 +3,14 @@ A CFO and a CEO from a phonebox company want to find the optimal way to build ph
 
 # Languages/ Libraries used
 Python, heapq, and plotlib for graphic presentations
+We used a Djikstra Algorithm
 
 # Results
-<img width="421" height="226" alt="image" src="https://github.com/user-attachments/assets/4658ff8b-e1b4-43d9-8be3-d4a3e4a88b02" />
+Picture of the graph
+<img width="1070" height="261" alt="image" src="https://github.com/user-attachments/assets/9d78d41a-0a5a-4040-9c0e-1a61b2ff79e4" />
+
+
+<img width="329" height="139" alt="image" src="https://github.com/user-attachments/assets/fa6b8c6a-f387-42e7-9c67-b1fc3cd5cdd3" />
+
+
+
